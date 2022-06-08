@@ -6,4 +6,4 @@ Below is a visual (wait a minute or so for it to load...) created using this [NA
 ![ozone (3)](https://user-images.githubusercontent.com/24558325/172584895-6d483f3f-8783-4b29-9fae-e0a25fceb642.gif)
 
 
-This is the outcome of a short personal project to learn how to parse data in the `.nc4` or "netCDF" format. The jupyter notebook used to generate this visual can be found [here](https://github.com/Lewington-pitsos/3d-ozone/blob/gh-pages/netcdf-information-and-analysis-climate-change.ipynb). 
+This is the outcome of a short personal project aimed at learning how to parse data in the `.nc4` or "netCDF" format. The jupyter notebook used to generate this visual can be found [here](https://github.com/Lewington-pitsos/3d-ozone/blob/gh-pages/netcdf-information-and-analysis-climate-change.ipynb). 
